@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Systems>
+  <System Name="UserCenter">
+    <Provider>SQLOLEDB</Provider>
+    <DataSource>localhost</DataSource>
+    <Initial_catalog>UserCenter</Initial_catalog>
+    <User_ID></User_ID>
+    <Password></Password>
+    <Timeout>3000</Timeout>
+  </System>
+  
+  <System Name="KidSC">
+    <Provider>SQLOLEDB</Provider>
+    <DataSource>172.28.0.45</DataSource>
+    <Initial_catalog>KidSC</Initial_catalog>
+    <User_ID></User_ID>
+    <Password></Password>
+    <Timeout>3000</Timeout>
+  </System>
+</Systems>

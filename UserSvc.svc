@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="UserSvc" CodeBehind="~/App_Code/UserSvc.cs" Factory="System.ServiceModel.Activation.WebScriptServiceHostFactory" %>
